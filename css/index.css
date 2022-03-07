@@ -1,0 +1,18 @@
+body{
+    background-image: url();
+}
+.whitebg{
+    background-image: url(../images/program/bground.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.testimonial{
+    background-color: #cddc3961;
+}
+.footer{
+    background-color: #f5e4dc;
+}
+.mainh1{
+    text-align: center;
+    margin-bottom: 4rem;
+}
