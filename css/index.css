@@ -15,7 +15,11 @@ body{
 .mainh1{
     text-align: center;
     margin-bottom: 4rem;
+    color: red;
+    
 }
-h2{
+
+.testi{
+    color: rgb(12, 248, 170);
     text-align: center;
 }
