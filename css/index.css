@@ -16,10 +16,13 @@ body{
     text-align: center;
     margin-bottom: 4rem;
     color: red;
+    font-size: 3rem;
+    
     
 }
 
 .testi{
+    font-size: 2rem;
     color: rgb(12, 248, 170);
     text-align: center;
 }
